@@ -70,3 +70,5 @@ chsh -s /bin/bash # change back to Bash if you want
 ```
 
 Then open a new terminal window to see the effects.
+
+.....
